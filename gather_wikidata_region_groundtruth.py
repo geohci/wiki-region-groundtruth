@@ -59,7 +59,7 @@ def get_region_data(region_qids_tsv, region_geoms_geojson, aggregation_tsv):
     for qid_from in aggregation:
         qid_to = aggregation[qid_from]
         if qid_to in qid_to_region:
-            qid_to_region[qid_from] = qid_to
+            qid_to_region[qid_from] = qid_to_region[qid_to]
     print("{0} QID-region pairs after adding aggregations".format(len(qid_to_region)))
 
     # load in geometries for the regions identified via Wikidata
@@ -226,6 +226,7 @@ def data_to_figshare_format(df, output_json):
     df['region_list'] = df['region_aggregate'].apply(lambda x: sorted(set(c for c in x)))
     with open(output_json, 'w') as fout:
         df[['item', 'region_list']].to_json(fout, orient='records', lines=True)
+
 
 if __name__ == "__main__":
     main()
