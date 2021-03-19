@@ -1,5 +1,4 @@
 Region	QID
-Abkhazia	Q23334
 Afghanistan	Q889
 Åland Islands	Q5689
 Albania	Q222
@@ -13,11 +12,11 @@ Antigua and Barbuda	Q781
 Argentina	Q414
 Armenia	Q399
 Aruba	Q21203
-Ashmore and Cartier Islands	Q133888
 Australia	Q408
 Australian Indian Ocean Territories	Q4824275
 Austria	Q40
 Azerbaijan	Q227
+Azores	Q25263
 Bahrain	Q398
 Bangladesh	Q902
 Barbados	Q244
@@ -97,7 +96,6 @@ Guinea	Q1006
 Guinea-Bissau	Q1007
 Guyana	Q734
 Haiti	Q790
-Heard Island and McDonald Islands	Q131198
 Honduras	Q783
 Hong Kong	Q8646
 Hungary	Q28
@@ -116,8 +114,6 @@ Jersey	Q785
 Jordan	Q810
 Kazakhstan	Q232
 Kenya	Q114
-Kingdom of Denmark	Q756617
-Kingdom of the Netherlands	Q29999
 Kiribati	Q710
 Kosovo	Q1246
 Kuwait	Q817
@@ -133,6 +129,7 @@ Lithuania	Q37
 Luxembourg	Q32
 Macau	Q14773
 Madagascar	Q1019
+Madeira	Q26253
 Malawi	Q1020
 Malaysia	Q833
 Maldives	Q826
@@ -165,7 +162,6 @@ Niue	Q34020
 Norfolk Island	Q31057
 North Korea	Q423
 North Macedonia	Q221
-Northern Cyprus	Q23681
 Northern Ireland	Q26
 Northern Mariana Islands	Q16644
 Norway	Q20
@@ -188,7 +184,6 @@ Réunion	Q17070
 Romania	Q218
 Russia	Q159
 Rwanda	Q1037
-Sahrawi Arab Democratic Republic	Q40362
 Saint Barthélemy	Q25362
 Saint Helena, Ascension and Tristan da Cunha	Q192184
 Saint Kitts and Nevis	Q763
@@ -207,7 +202,6 @@ Seychelles	Q1042
 Sierra Leone	Q1044
 Singapore	Q334
 Sint Maarten	Q26273
-Sixth Republic of South Korea	Q488889
 Slovakia	Q214
 Slovenia	Q215
 Solomon Islands	Q685
@@ -215,7 +209,6 @@ Somalia	Q1045
 South Africa	Q258
 South Georgia and the South Sandwich Islands	Q35086
 South Korea	Q884
-South Ossetia	Q23427
 South Sudan	Q958
 Spain	Q29
 Sri Lanka	Q854
