@@ -1,3 +1,6 @@
+# Acknowledgments to https://github.com/amamgbu/
+# Drawn heavily from: https://public.paws.wmcloud.org/64168804/Compiled%20Model.ipynb
+
 import argparse
 import bz2
 from collections import namedtuple
